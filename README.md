@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fghij24680
-- 👀 I’m currently a quantitative finance student. Interested in quant trading, risk quant and statistics.
-- 💻 I've uploaded several of my past codes. Some of them are web, Java or C++ programs, but I don't develop software anymore. Focus on Python & R & Data Analysis.
-- 📫 Feel free to reach me 673999851@qq.com
+- 👀 I’m currently a quantitative finance analyst. Interested in quant trading, risk quant and statistics.
+- 💻 I've uploaded several of my past codes, including web, Java and C++ programs, as well as projects on Python & R & Data Analysis.
+- 📫 Feel free to reach me jasonm009026@gmail.com
